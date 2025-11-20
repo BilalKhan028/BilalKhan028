@@ -7,7 +7,7 @@ I'm an AI & Web Developer passionate about building intelligent and user-friendl
 - **Frameworks:** Bootstrap, Tailwind
 - **Tools:** Git, VSCode, GitHub, Figma
 
-## Projects
+## Linkedin
 - (https://www.linkedin.com/in/bilalkhan028/) - My Linkedin
 
 
