@@ -52,9 +52,9 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilalKhan028&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalKhan028&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BilalKhan028&theme=dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BilalKhan028&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalKhan028&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=BilalKhan028&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
